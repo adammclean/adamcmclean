@@ -6,6 +6,14 @@
  * Made By MaterializeCSS.com
  */
 
+ a{
+  color: #263238;
+ }
+
+ .modal {
+  color: blue;
+ }
+
 nav ul a,
 nav .brand-logo {
   color: #444;
